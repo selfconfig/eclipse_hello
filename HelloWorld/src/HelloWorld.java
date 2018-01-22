@@ -9,6 +9,7 @@ public class HelloWorld {
 		//이클스와 깃헙 오예 
 	System.out.println("Party goes on forever");
 	System.out.println("earth'end");
+	System.out.println("hotfix dance baby!!");
 
 	}
 
